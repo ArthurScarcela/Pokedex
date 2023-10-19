@@ -284,7 +284,7 @@ footer h4::after{
         margin: 15px 0;
         display: flex;
         width: 100%;
-        height: 90px;
+        height: 126px;
         color: #ffff;
         justify-content: center;
         align-items: center;
@@ -294,20 +294,21 @@ footer h4::after{
         background-color: #adada794;
         border-radius: 25px;
         width: 100%;
-        height: 110px;
+        height: 126px;
         display: flex;
         flex-wrap: wrap;
         align-items: center;
         justify-content: center;
         
     }
+
     #pagination button{
         border-radius: 12px;
         padding: 3px;
         border: none;
         background: none;
         margin: 0 3px;
-        font-size: 15px;
+        font-size: 13px;
         color: #000000d2;
         cursor: pointer;
         font-family: 'SNACKID', sans-serif;
