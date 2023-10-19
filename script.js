@@ -364,11 +364,13 @@ async function getPokemonDetails(url) {
 function showLoading() {
     document.getElementById('loading-overlay').style.display = 'flex';
     document.getElementsByClassName('main-content')[0].style.visibility = 'hidden';
+
 }
 
 function hideLoading() {
     document.getElementById('loading-overlay').style.display = 'none';
     document.getElementsByClassName('main-content')[0].style.visibility = 'visible';
+
 }
 
 
